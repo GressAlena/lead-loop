@@ -1,0 +1,13 @@
+flask
+flask-cors
+requests
+python-dotenv
+supabase
+langchain-core
+langchain-openai
+langgraph
+google-api-python-client
+google-auth
+google-auth-oauthlib
+pytz
+playwright
